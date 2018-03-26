@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidCalc</string>
+    <string name="title_activity_main_two">MainActivityTwo</string>
+    <string name="title_activity_main_three">MainActivityThree</string>
+</resources>
